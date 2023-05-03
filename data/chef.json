@@ -1,28 +1,30 @@
 [
     {
-        "id": 1,
+        "id": "1",
         "picture": "https://ibtbd.net/wp-content/uploads/2019/11/Chef-Moniruzzaman.jpg",
         "name": "Arman Rahman",
         "years_of_experience": 12,
         "num_recipes": 3,
         "likes": 1200,
+        "bio": "Arman Rahman is a talented Bangladeshi chef who has been cooking for over 12 years. He specializes in fusion cuisine, combining traditional Bangladeshi ingredients and flavors with international cooking techniques.",
+        
         "recipes": [
             {
-                "id": 1,
+                "id": 11,
                 "name": "Beef Bhuna",
                 "ingredients": "beef, onion, ginger paste, garlic paste, chili powder, coriander powder, turmeric, salt, oil",
                 "cooking_method": "Heat oil in a pan and fry the onion until golden brown. Add beef, ginger paste, garlic paste, chili powder, coriander powder, turmeric, and salt. Cook until the beef is tender and the spices are well blended.",
                 "rating": 4.5
             },
             {
-                "id": 2,
+                "id": 21,
                 "name": "Shorshe Bata Ilish",
                 "ingredients": "ilish fish, mustard paste, turmeric, salt, green chili, oil",
                 "cooking_method": "Rub the fish with turmeric and salt. Heat oil in a pan and fry the fish until golden brown. In another pan, mix the mustard paste with water and cook until the mixture thickens. Add green chili and pour the mixture over the fish.",
                 "rating": 4.8
             },
             {
-                "id": 3,
+                "id": 31,
                 "name": "Aloo Posto",
                 "ingredients": "potato, poppy seeds, mustard oil, green chili, salt",
                 "cooking_method": "Boil potatoes until tender. In another pan, fry the poppy seeds until fragrant. Grind the poppy seeds into a paste and mix with mustard oil. Add the potatoes, green chili, and salt. Cook until the flavors are well combined.",
@@ -31,29 +33,31 @@
         ]
     },
     {
-        "id": 2,
+        "id": "2",
         "picture": "https://ici.edu.bd/wp-content/uploads/2021/11/Daniel_C_Gomes-400x534.jpeg",
         "name": "Mohammad Ali",
         "years_of_experience": 15,
         "num_recipes": 3,
         "likes": 2300,
+        "bio": "Mohammad Ali is a highly respected Bangladeshi chef with over 15 years of experience. He is a master of traditional Bengali cuisine and is known for his ability to create complex and nuanced flavors.",
+       
         "recipes": [
             {
-                "id": 1,
+                "id": 11,
                 "name": "Chicken Curry",
                 "ingredients": "chicken, onion, garlic, ginger, turmeric, chili powder, coriander powder, cumin, garam masala, salt, oil",
                 "cooking_method": "Heat oil in a pan and fry the onion, garlic, and ginger until golden brown. Add chicken, turmeric, chili powder, coriander powder, cumin, garam masala, and salt. Cook until the chicken is tender and the spices are well blended.",
                 "rating": 4
             },
             {
-                "id": 2,
+                "id": 21,
                 "name": "Mutton Rezala",
                 "ingredients": "mutton, onion, ginger paste, garlic paste, yogurt, poppy seeds, cashew nuts, chili powder, garam masala, salt, oil",
                 "cooking_method": "Heat oil in a pan and fry the onion until golden brown. Add mutton, ginger paste, garlic paste, yogurt, poppy seeds, cashew nuts, chili powder, garam masala, and salt. Cook until the mutton is tender and the spices are well blended.",
                 "rating": 5
             },
             {
-                "id": 3,
+                "id": 31,
                 "name": "Aloo Posto",
                 "ingredients": "potato, poppy seeds, mustard oil, green chili, salt",
                 "cooking_method": "Boil potatoes until tender. In another pan, fry the poppy seeds until fragrant. Grind the poppy seeds into a paste and mix with mustard oil. Add the potatoes, green chili, and salt. Cook until the flavors are well combined.",
@@ -62,29 +66,30 @@
         ]
     },
     {
-        "id": 3,
-        "picture": "https://example.com/chef1.jpg",
+        "id": "3",
+        "picture": "https://images.hindustantimes.com/img/2021/07/16/550x309/Kishwar_Chowdhary_1626416628501_1626416631690.jpg",
         "name": "Sadia Islam Mou",
         "years_of_experience": 10,
-        "num_of_recipes": 3,
+        "num_recipes": 3,
         "likes": 2000,
+        "bio": "Sadia Islam Mou is a renowned Bangladeshi chef who has been in the industry for over 10 years. She is known for her expertise in traditional Bengali cuisine and has won several awards for her innovative and delicious dishes.",
         "recipes": [
             {
-                "id": 1,
+                "id": 11,
                 "name": "Chingri Bhapa",
                 "ingredients": "prawns, coconut milk, mustard seeds, green chillies, turmeric powder, salt",
                 "cooking_method": "1. Clean and devein the prawns. 2. Mix the prawns with coconut milk, mustard seeds, green chillies, turmeric powder, and salt. 3. Put the mixture in a steamer and steam for 10-15 minutes. 4. Serve hot.",
                 "rating": 5
             },
             {
-                "id": 3,
+                "id": 21,
                 "name": "Shorshe Ilish",
                 "ingredients": "hilsa fish, mustard oil, black mustard seeds, turmeric powder, salt, green chillies",
                 "cooking_method": "1. Clean and cut the hilsa fish into pieces. 2. Mix the fish with mustard oil, black mustard seeds, turmeric powder, salt, and green chillies. 3. Cook the mixture on a low flame for 10-15 minutes. 4. Serve hot with steamed rice.",
                 "rating": 5
             },
             {
-                "id": 3,
+                "id": 31,
                 "name": "Beef Bhuna",
                 "ingredients": "beef, onion, garlic, ginger, red chilli powder, cumin powder, coriander powder, turmeric powder, salt, oil",
                 "cooking_method": "1. Cut the beef into small pieces. 2. Heat oil in a pan and fry the onions until golden brown. 3. Add garlic, ginger, red chilli powder, cumin powder, coriander powder, turmeric powder, and salt. Fry for 2-3 minutes. 4. Add the beef and cook for 10-15 minutes on medium heat until the beef is tender. 5. Serve hot with steamed rice.",
@@ -93,29 +98,30 @@
         ]
     },
     {
-        "id": 4,
+        "id": "4",
         "picture": "https://lesaffre.com.bd/wp-content/uploads/2020/05/Baker-chef-1.jpg",
         "name": "Nafiz Rahman",
         "years_of_experience": 12,
         "num_recipes": 3,
         "likes": 1100,
+        "bio": "Nafiz Rahman is a versatile Bangladeshi chef with a wide range of culinary skills. He has worked in some of the top restaurants in Bangladesh and is known for his ability to create both traditional and modern dishes.",
         "recipes": [
             {
-                "id": 1,
+                "id": 11,
                 "name": "Beef Bhuna",
                 "ingredients": "beef, onion, ginger paste, garlic paste, chili powder, coriander powder, turmeric, salt, oil",
                 "cooking_method": "Heat oil in a pan and fry the onion until golden brown. Add beef, ginger paste, garlic paste, chili powder, coriander powder, turmeric, and salt. Cook until the beef is tender and the spices are well blended.",
                 "rating": 5
             },
             {
-                "id": 2,
+                "id": 21,
                 "name": "Shorshe Bata Ilish",
                 "ingredients": "ilish fish, mustard paste, turmeric, salt, green chili, oil",
                 "cooking_method": "Rub the fish with turmeric and salt. Heat oil in a pan and fry the fish until golden brown. In another pan, mix the mustard paste with water and cook until the mixture thickens. Add green chili and pour the mixture over the fish.",
                 "rating": 5
             },
             {
-                "id": 3,
+                "id": 31,
                 "name": "Aloo Posto",
                 "ingredients": "potato, poppy seeds, mustard oil, green chili, salt",
                 "cooking_method": "Boil potatoes until tender. In another pan, fry the poppy seeds until fragrant. Grind the poppy seeds into a paste and mix with mustard oil. Add the potatoes, green chili, and salt. Cook until the flavors are well combined.",
@@ -124,29 +130,30 @@
         ]
     },
     {
-        "id": 5,
+        "id": "5",
         "picture": "https://lesaffre.com.bd/wp-content/uploads/2020/05/baking-center-2.jpg",
         "name": "Mohammad Hasan",
         "years_of_experience": 15,
         "num_recipes": 3,
         "likes": 3300,
+        "bio": "Mohammad Hasan is a highly respected Bangladeshi chef with over 15 years of experience. He is a master of traditional Bengali cuisine and is known for his ability to create complex and nuanced flavors.",
         "recipes": [
             {
-                "id": 1,
+                "id": 11,
                 "name": "Chicken Curry",
                 "ingredients": "chicken, onion, garlic, ginger, turmeric, chili powder, coriander powder, cumin, garam masala, salt, oil",
                 "cooking_method": "Heat oil in a pan and fry the onion, garlic, and ginger until golden brown. Add chicken, turmeric, chili powder, coriander powder, cumin, garam masala, and salt. Cook until the chicken is tender and the spices are well blended.",
                 "rating": 4
             },
             {
-                "id": 2,
+                "id": 21,
                 "name": "Mutton Rezala",
                 "ingredients": "mutton, onion, ginger paste, garlic paste, yogurt, poppy seeds, cashew nuts, chili powder, garam masala, salt, oil",
                 "cooking_method": "Heat oil in a pan and fry the onion until golden brown. Add mutton, ginger paste, garlic paste, yogurt, poppy seeds, cashew nuts, chili powder, garam masala, and salt. Cook until the mutton is tender and the spices are well blended.",
                 "rating": 5
             },
             {
-                "id": 3,
+                "id": 31,
                 "name": "Aloo Posto",
                 "ingredients": "potato, poppy seeds, mustard oil, green chili, salt",
                 "cooking_method": "Boil potatoes until tender. In another pan, fry the poppy seeds until fragrant. Grind the poppy seeds into a paste and mix with mustard oil. Add the potatoes, green chili, and salt. Cook until the flavors are well combined.",
@@ -155,29 +162,30 @@
         ]
     },
     {
-        "id": 6,
+        "id":"6",
         "picture": "https://www.acdivoca.org/wp-content/uploads/2019/06/Feed-Future-Bangladesh-RDC-Nutri-Champs.jpg",
         "name": "Sadia Islam",
         "years_of_experience": 10,
-        "num_of_recipes": 3,
+        "num_recipes": 3,
         "likes": 2300,
+        "bio": "Sadia Islam is a renowned Bangladeshi chef who has been in the industry for over 10 years. She is known for her expertise in traditional Bengali cuisine and has won several awards for her innovative and delicious dishes.",
         "recipes": [
             {
-                "id": 1,
+                "id": 11,
                 "name": "Chingri Bhapa",
                 "ingredients": "prawns, coconut milk, mustard seeds, green chillies, turmeric powder, salt",
                 "cooking_method": "1. Clean and devein the prawns. 2. Mix the prawns with coconut milk, mustard seeds, green chillies, turmeric powder, and salt. 3. Put the mixture in a steamer and steam for 10-15 minutes. 4. Serve hot.",
                 "rating": 5
             },
             {
-                "id": 3,
+                "id": 21,
                 "name": "Shorshe Ilish",
                 "ingredients": "hilsa fish, mustard oil, black mustard seeds, turmeric powder, salt, green chillies",
                 "cooking_method": "1. Clean and cut the hilsa fish into pieces. 2. Mix the fish with mustard oil, black mustard seeds, turmeric powder, salt, and green chillies. 3. Cook the mixture on a low flame for 10-15 minutes. 4. Serve hot with steamed rice.",
                 "rating": 5
             },
             {
-                "id": 3,
+                "id": 31,
                 "name": "Beef Bhuna",
                 "ingredients": "beef, onion, garlic, ginger, red chilli powder, cumin powder, coriander powder, turmeric powder, salt, oil",
                 "cooking_method": "1. Cut the beef into small pieces. 2. Heat oil in a pan and fry the onions until golden brown. 3. Add garlic, ginger, red chilli powder, cumin powder, coriander powder, turmeric powder, and salt. Fry for 2-3 minutes. 4. Add the beef and cook for 10-15 minutes on medium heat until the beef is tender. 5. Serve hot with steamed rice.",
